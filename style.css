@@ -1,4 +1,5 @@
 main {
+  margin: 0;
   font-weight: 50;
   display: flex;
   flex-direction: column;
